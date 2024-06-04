@@ -44,3 +44,15 @@ section h2 {
     padding: 0.5em;
     border-radius: 4px;
 }
+
+#languages ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#languages li {
+    background-color: #ddd;
+    margin: 0.5em 0;
+    padding: 0.5em;
+    border-radius: 4px;
+}
